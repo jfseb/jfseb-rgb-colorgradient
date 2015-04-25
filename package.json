@@ -1,0 +1,31 @@
+{
+  "name": "jfseb-rgb-colorgradient",
+  "version": "0.1.0",
+  "description": "generate an rgb color gradient",
+  "main": "client.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jfseb/jfseb-rgb-colorgradient.git"
+  },
+  "keywords": [
+    "rgb",
+    "color",
+    "coloring"
+  ],
+  "author": "jfsebpublic@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfseb/jfseb-rgb-colorgradient/issues"
+  },
+  "homepage": "https://github.com/jfseb/jfseb-rgb-colorgradient"
+}
