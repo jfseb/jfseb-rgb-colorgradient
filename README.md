@@ -1,7 +1,7 @@
 jfseb-rgb-colorgradient
 =========
 
-A small library providing utility methods to `escape` and `unescape` HTML entities
+A small library to generate color gradients  
 
 ## Installation
 
